@@ -13,9 +13,9 @@ body {
      border-radius: 10px;
  }
 #time {
-    front-size: 64px;
-    front-style: italic;
-    front-weight: bold;
+    font-size: 64px;
+    font-style: italic;
+    font-weight: bold;
 }
   
   
